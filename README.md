@@ -8,4 +8,6 @@ A Python CLI tool for system and file analysis.
 
 ## Contributing
 
-## License
+## Development Log
+
+See [docs/development_log.md](docs/development_log.md) for the project's development history.
